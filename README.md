@@ -42,37 +42,29 @@ This repository is organized into **two levels**:
 
 # Tour Merchandise
 
-## Item 1: [Item Name]
+## Item 1: [G59 Logo T-Shirt (Black)]
 ![Item 1 Image](images/item1.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [Item Name] |
-| Artist | [Artist Name] |
-| Year | [Year] |
-| Collection / Tour | [Tour Name] |
-| Item Type | [Hoodie, T-Shirt, Hat, Poster, etc.] |
-| Color / Variant | [Color or version] |
-| Original Price | [Price if known] |
-| Description | [Short description of the item] |
-| Source | [Official store, archived page, fan photo, resale listing, etc.] |
-| Rights / Notes | [State source and any copyright or usage notes] |
+| Title | [G59 Logo T-shirt] |
+| Artist | [$B] |
+| Released | [9th May 2018] |
+| Item Type | [T-Shirt] |
+| Color / Variant | [Black] |
+| Original Price | [$20.59] |
+| Description | [Original G59 Records Skull Logo] |
 
-## Item 2: [Item Name]
+## Item 2: [G59 Logo T-Shirt (White)]
 ![Item 2 Image](images/item2.jpg)
 
-| Field | Metadata |
-|---|---|
-| Title | [Item Name] |
-| Artist | [Artist Name] |
-| Year | [Year] |
-| Collection / Tour | [Tour Name] |
-| Item Type | [Hoodie, T-Shirt, Hat, Poster, etc.] |
-| Color / Variant | [Color or version] |
-| Original Price | [Price if known] |
-| Description | [Short description of the item] |
-| Source | [Official store, archived page, fan photo, resale listing, etc.] |
-| Rights / Notes | [State source and any copyright or usage notes] |
+| Title | [G59 Logo T-shirt] |
+| Artist | [$B] |
+| Released | [9th May 2018] |
+| Item Type | [T-Shirt] |
+| Color / Variant | [White] |
+| Original Price | [$20.59] |
+| Description | [Original G59 Records Skull Logo] |
 
 ## Item 3: [Item Name]
 ![Item 3 Image](images/item3.jpg)
