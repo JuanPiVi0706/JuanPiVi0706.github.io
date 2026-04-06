@@ -44,6 +44,7 @@ This repository is organized into **two levels**:
 
 ## Item 1: [G59 Logo T-Shirt (Black)]
 ![Item 1 Image](images/item1.jpg)
+![Item 1 Image](images/item2.jpg)
 
 | Field | Metadata |
 |---|---|
@@ -56,7 +57,7 @@ This repository is organized into **two levels**:
 | Description | [Original G59 Records Skull Logo] |
 
 ## Item 2: [G59 Logo T-Shirt (White)]
-![Item 2 Image](images/item2.jpg)
+![Item 2 Image](images/item3.jpg)
 
 | Title | [G59 Logo T-shirt] |
 | Artist | [$B] |
@@ -69,15 +70,15 @@ This repository is organized into **two levels**:
 ---
 # Album / Era Merchandise
 
-## Item 3: [Item Name]
-![Item 3 Image](images/item3.jpg)
+## Item 3: [THY WILL BE DONE - CD]
+![Item 3 Image](images/item4.jpg)
 
 | Field | Metadata |
 |---|---|
 | Title | [THY WILL BE DONE - CD] |
 | Artist | [$B] |
 | Relased | [December 25 2025] |
-| Collection: THY WILL BE DONE|
+| Collection | THY WILL BE DONE |
 | Item Type | [CD] |
 | Color / Variant | [None] |
 | Original Price | [$13.98] |
@@ -85,14 +86,14 @@ This repository is organized into **two levels**:
 | Source | [Online G59 Website] |
 
 ## Item 4: [Item Name]
-![Item 4 Image](images/item4.jpg)
+![Item 4 Image](images/item5.jpg)
 
 | Field | Metadata |
 |---|---|
 | Title | [THY WILL BE DONE - 12"] |
 | Artist | [$B] |
 | Relased | [December 25 2025] |
-| Collection: THY WILL BE DONE|
+| Collection | THY WILL BE DONE |
 | Item Type | [CD] |
 | Color / Variant | [None] |
 | Original Price | [$24.98] |
@@ -100,14 +101,14 @@ This repository is organized into **two levels**:
 | Source | [Online G59 Website] |
 
 ## Item 5: [THY WILL BE DONE - Cassette]
-![Item 5 Image](images/item5.jpg)
+![Item 5 Image](images/item6.jpg)
 
 | Field | Metadata |
 |---|---|
 | Title | [THY WILL BE DONE - Cassette] |
 | Artist | [$B] |
 | Relased | [December 25 2025] |
-| Collection: THY WILL BE DONE|
+| Collection | THY WILL BE DONE |
 | Item Type | [Cassette] |
 | Color / Variant | [None] |
 | Original Price | [$15.00] |
