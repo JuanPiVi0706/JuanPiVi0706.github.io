@@ -8,10 +8,10 @@ title: Artist Merchandise Repository
 This is a project for the University of North Texas. This archive documents G59 merchandise throughout the years.
 
 ## About This Repository
-This repository documents and preserves artist merchandise over time in a structured and searchable way. The purpose of this project is to organize merchandise items by era, tour, album, or collection while also recording important details such as release year, item type, price, and source. This project was created to provide a more complete and in-depth record of artist merchandise, especially for items that may no longer be sold or are missing from existing fan-made archives.
+This repository is meant to document and preserv artist merchandise over time. The purpose of this repository project is to document merchandise items by years, tour, album, or collection while also recording important details such as release year, item type, price, and source. This project was created show a more detailed and more in depth record of artist merchandise, especially for items that may no longer be sold or are missing from existits.
 
 ## Why I Chose GitHub Pages
-I chose **GitHub Pages** for this project because it is free, public, easy to customize, and works well for a visual online repository. Since this project focuses on artist merchandise over time, GitHub Pages allows me to present images, descriptions, and item details in a chronological and organized way. It also gives me a public URL, which makes the repository easy to share and access.
+The reason for using **GitHub Pages** for this project because is becasue its free to to the public and its easy to customize, and works well for a visual online repository. becasue this project focuses on artist merchandise over time GitHub Pages allows me to show  images with descriptions and item details in a chronological order and it also gives me a public URL which makes the repository easy to share and access.
 
 ## User Group
 The main users of this repository are:
@@ -125,6 +125,3 @@ This repository focuses on documenting artist merchandise in a chronological and
 
 ## Rights Statement
 This repository is intended for educational and archival purposes. Images and item information are credited to their original sources when known. Merchandise images may remain under copyright of the artist, label, brand, photographer, or original seller.
-
-## Conclusion
-This repository helps preserve and organize artist merchandise history by providing structured metadata, images, and categories that make the collection easier to browse and understand.artist merchandise history by providing structured metadata, images, and categories that make the collection easier to browse and understand.
