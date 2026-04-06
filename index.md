@@ -1,8 +1,24 @@
----
 layout: default
 title: Artist Merchandise Repository
 ---
 
+# Artist Merchandise Repository
+
+<nav>
+  <a href="{{ '/' | relative_url }}">Home</a> |
+  <a href="{{ '/merch-drops/' | relative_url }}">Merch Drops</a> |
+  <a href="{{ '/tour-merch/' | relative_url }}">Tour Merch</a> |
+  <a href="{{ '/physical-music/' | relative_url }}">Physical Music Drops</a>
+</nav>
+
+---
+
+Welcome to the G59 Artist Merchandise Repository. This archive documents merchandise throughout the years and organizes items into different sections for easier browsing.
+
+## Repository Sections
+- Merch Drops
+- Tour Merch
+- Physical Music Drops
 # Artist Merchandise Repository
 
 This is a project for the University of North Texas. This archive documents G59 merchandise throughout the years.
