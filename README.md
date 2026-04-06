@@ -66,57 +66,53 @@ This repository is organized into **two levels**:
 | Original Price | [$20.59] |
 | Description | [Original G59 Records Skull Logo] |
 
+---
+# Album / Era Merchandise
+
 ## Item 3: [Item Name]
 ![Item 3 Image](images/item3.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [Item Name] |
-| Artist | [Artist Name] |
-| Year | [Year] |
-| Collection / Tour | [Tour Name] |
-| Item Type | [Hoodie, T-Shirt, Hat, Poster, etc.] |
-| Color / Variant | [Color or version] |
-| Original Price | [Price if known] |
-| Description | [Short description of the item] |
-| Source | [Official store, archived page, fan photo, resale listing, etc.] |
-| Rights / Notes | [State source and any copyright or usage notes] |
-
----
-
-# Album / Era Merchandise
+| Title | [THY WILL BE DONE - CD] |
+| Artist | [$B] |
+| Relased | [December 25 2025] |
+| Collection: THY WILL BE DONE|
+| Item Type | [CD] |
+| Color / Variant | [None] |
+| Original Price | [$13.98] |
+| Description | [CD of THY WILL BE DONE Album] |
+| Source | [Online G59 Website] |
 
 ## Item 4: [Item Name]
 ![Item 4 Image](images/item4.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [Item Name] |
-| Artist | [Artist Name] |
-| Year | [Year] |
-| Collection / Era | [Album or era name] |
-| Item Type | [Hoodie, T-Shirt, Hat, Poster, etc.] |
-| Color / Variant | [Color or version] |
-| Original Price | [Price if known] |
-| Description | [Short description of the item] |
-| Source | [Official store, archived page, fan photo, resale listing, etc.] |
-| Rights / Notes | [State source and any copyright or usage notes] |
+| Title | [THY WILL BE DONE - 12"] |
+| Artist | [$B] |
+| Relased | [December 25 2025] |
+| Collection: THY WILL BE DONE|
+| Item Type | [CD] |
+| Color / Variant | [None] |
+| Original Price | [$24.98] |
+| Description | [Vynal of THY WILL BE DONE Album] |
+| Source | [Online G59 Website] |
 
-## Item 5: [Item Name]
+## Item 5: [THY WILL BE DONE - Cassette]
 ![Item 5 Image](images/item5.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [Item Name] |
-| Artist | [Artist Name] |
-| Year | [Year] |
-| Collection / Era | [Album or era name] |
-| Item Type | [Hoodie, T-Shirt, Hat, Poster, etc.] |
-| Color / Variant | [Color or version] |
-| Original Price | [Price if known] |
-| Description | [Short description of the item] |
-| Source | [Official store, archived page, fan photo, resale listing, etc.] |
-| Rights / Notes | [State source and any copyright or usage notes] |
+| Title | [THY WILL BE DONE - Cassette] |
+| Artist | [$B] |
+| Relased | [December 25 2025] |
+| Collection: THY WILL BE DONE|
+| Item Type | [Cassette] |
+| Color / Variant | [None] |
+| Original Price | [$15.00] |
+| Description | [Cassette of THY WILL BE DONE Album] |
+| Source | [Online G59 Website] |
 
 ---
 
