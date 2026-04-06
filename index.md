@@ -1,15 +1,11 @@
 ---
+layout: default
 title: Artist Merchandise Repository
 ---
 
 # Artist Merchandise Repository
 
 This is a project for the University of North Texas. This archive documents G59 merchandise throughout the years.
-layout: default
-title: Artist Merchandise Repository
----
-
-# Artist Merchandise Repository
 
 ## About This Repository
 This repository documents and preserves artist merchandise over time in a structured and searchable way. The purpose of this project is to organize merchandise items by era, tour, album, or collection while also recording important details such as release year, item type, price, and source. This project was created to provide a more complete and in-depth record of artist merchandise, especially for items that may no longer be sold or are missing from existing fan-made archives.
@@ -46,78 +42,80 @@ This repository is organized into **two levels**:
 
 # Tour Merchandise
 
-## Item 1: [G59 Logo T-Shirt (Black)]
+## Item 1: G59 Logo T-Shirt (Black)
 ![Item 1 Image](images/item1.jpg)
 ![Item 1 Image](images/item2.jpg)
+| Field | Metadata |
+|---|---|
+| Title | G59 Logo T-Shirt |
+| Artist | $B |
+| Released | 9 May 2018 |
+| Item Type | T-Shirt |
+| Color / Variant | Black |
+| Original Price | $20.59 |
+| Description | Original G59 Records Skull Logo |
+
+## Item 2: G59 Logo T-Shirt (White)
+![Item 2 Image](images/item3.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [G59 Logo T-shirt] |
-| Artist | [$B] |
-| Released | [9th May 2018] |
-| Item Type | [T-Shirt] |
-| Color / Variant | [Black] |
-| Original Price | [$20.59] |
-| Description | [Original G59 Records Skull Logo] |
-
-## Item 2: [G59 Logo T-Shirt (White)]
-![Item 2 Image](images/item3.jpg)
-
-| Title | [G59 Logo T-shirt] |
-| Artist | [$B] |
-| Released | [9th May 2018] |
-| Item Type | [T-Shirt] |
-| Color / Variant | [White] |
-| Original Price | [$20.59] |
-| Description | [Original G59 Records Skull Logo] |
+| Title | G59 Logo T-Shirt |
+| Artist | $B |
+| Released | 9 May 2018 |
+| Item Type | T-Shirt |
+| Color / Variant | White |
+| Original Price | $20.59 |
+| Description | Original G59 Records Skull Logo |
 
 ---
+
 # Album / Era Merchandise
 
-## Item 3: [THY WILL BE DONE - CD]
+## Item 3: THY WILL BE DONE - CD
 ![Item 3 Image](images/item4.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [THY WILL BE DONE - CD] |
-| Artist | [$B] |
-| Relased | [December 25 2025] |
+| Title | THY WILL BE DONE - CD |
+| Artist | $B |
+| Released | 25 December 2025 |
 | Collection | THY WILL BE DONE |
-| Item Type | [CD] |
-| Color / Variant | [None] |
-| Original Price | [$13.98] |
-| Description | [CD of THY WILL BE DONE Album] |
-| Source | [Online G59 Website] |
+| Item Type | CD |
+| Color / Variant | None |
+| Original Price | $13.98 |
+| Description | CD of the THY WILL BE DONE album |
+| Source | Online G59 Website |
 
-## Item 4: [Item Name]
+## Item 4: THY WILL BE DONE - 12" Vinyl
 ![Item 4 Image](images/item5.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [THY WILL BE DONE - 12"] |
-| Artist | [$B] |
-| Relased | [December 25 2025] |
+| Title | THY WILL BE DONE - 12" Vinyl |
+| Artist | $B |
+| Released | 25 December 2025 |
 | Collection | THY WILL BE DONE |
-| Item Type | [CD] |
-| Color / Variant | [None] |
-| Original Price | [$24.98] |
-| Description | [Vynal of THY WILL BE DONE Album] |
-| Source | [Online G59 Website] |
+| Item Type | Vinyl |
+| Color / Variant | None |
+| Original Price | $24.98 |
+| Description | Vinyl of the THY WILL BE DONE album |
+| Source | Online G59 Website |
 
-## Item 5: [THY WILL BE DONE - Cassette]
+## Item 5: THY WILL BE DONE - Cassette
 ![Item 5 Image](images/item6.jpg)
 
 | Field | Metadata |
 |---|---|
-| Title | [THY WILL BE DONE - Cassette] |
-| Artist | [$B] |
-| Relased | [December 25 2025] |
+| Title | THY WILL BE DONE - Cassette |
+| Artist | $B |
+| Released | 25 December 2025 |
 | Collection | THY WILL BE DONE |
-| Item Type | [Cassette] |
-| Color / Variant | [None] |
-| Original Price | [$15.00] |
-| Description | [Cassette of THY WILL BE DONE Album] |
-| Source | [Online G59 Website] |
+| Item Type | Cassette |
+| Color / Variant | None |
+| Original Price | $15.00 |
+| Description | Cassette of the THY WILL BE DONE album |
+| Source | Online G59 Website |
 
 ---
 
@@ -128,4 +126,4 @@ This repository focuses on documenting artist merchandise in a chronological and
 This repository is intended for educational and archival purposes. Images and item information are credited to their original sources when known. Merchandise images may remain under copyright of the artist, label, brand, photographer, or original seller.
 
 ## Conclusion
-This repository helps preserve and organize artist merchandise history by providing structured metadata, images, and categories that make the collection easier to browse and understand.
+This repository helps preserve and organize artist merchandise history by providing structured metadata, images, and categories that make the collection easier to browse and understand.artist merchandise history by providing structured metadata, images, and categories that make the collection easier to browse and understand.
