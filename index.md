@@ -45,6 +45,7 @@ This repository is organized into **two levels**:
 ## Item 1: G59 Logo T-Shirt (Black)
 ![Item 1 Image](images/item1.jpg)
 ![Item 1 Image](images/item2.jpg)
+
 | Field | Metadata |
 |---|---|
 | Title | G59 Logo T-Shirt |
